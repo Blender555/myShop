@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hossa\\source\\repos\\myshop\\myshop.Entities\\myshop.Entities.csproj": {}
+    "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\myshop.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hossa\\source\\repos\\myshop\\myshop.Entities\\myshop.Entities.csproj": {
+    "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\myshop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hossa\\source\\repos\\myshop\\myshop.Entities\\myshop.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\myshop.Entities.csproj",
         "projectName": "myshop.Entities",
-        "projectPath": "C:\\Users\\hossa\\source\\repos\\myshop\\myshop.Entities\\myshop.Entities.csproj",
+        "projectPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\myshop.Entities.csproj",
         "packagesPath": "C:\\Users\\hossa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hossa\\source\\repos\\myshop\\myshop.Entities\\obj\\",
+        "outputPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\hossa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -40,15 +43,20 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
               "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[9.0.2, )"
             }
           },
           "imports": [
@@ -67,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

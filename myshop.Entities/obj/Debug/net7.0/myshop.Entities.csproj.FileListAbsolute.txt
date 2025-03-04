@@ -10,3 +10,16 @@ C:\Users\hossa\source\repos\myshop\myshop.Entities\obj\Debug\net7.0\refint\mysho
 C:\Users\hossa\source\repos\myshop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.pdb
 C:\Users\hossa\source\repos\myshop\myshop.Entities\obj\Debug\net7.0\ref\myshop.Entities.dll
 C:\Users\hossa\source\repos\myshop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.csproj.AssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\bin\Debug\net7.0\myshop.Entities.deps.json
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\bin\Debug\net7.0\myshop.Entities.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\bin\Debug\net7.0\myshop.Entities.pdb
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.csproj.AssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\refint\myshop.Entities.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\myshop.Entities.pdb
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Entities\obj\Debug\net7.0\ref\myshop.Entities.dll

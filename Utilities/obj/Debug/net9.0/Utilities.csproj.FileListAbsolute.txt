@@ -1,0 +1,13 @@
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\bin\Debug\net9.0\Utilities.deps.json
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\bin\Debug\net9.0\Utilities.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\bin\Debug\net9.0\Utilities.pdb
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.AssemblyInfo.cs
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.sourcelink.json
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\refint\Utilities.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.pdb
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\ref\Utilities.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\Utilities\obj\Debug\net9.0\Utilities.csproj.AssemblyReference.cache

@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myshop.DataAccess", "myshop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myshop.Entities", "myshop.Entities\myshop.Entities.csproj", "{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{8C508553-33B0-4F72-841D-459ABA3D48E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C508553-33B0-4F72-841D-459ABA3D48E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C508553-33B0-4F72-841D-459ABA3D48E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C508553-33B0-4F72-841D-459ABA3D48E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C508553-33B0-4F72-841D-459ABA3D48E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
