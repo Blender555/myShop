@@ -145,6 +145,14 @@
       "PackagePath": "staticwebassets\\images\\Products\\7b9948b6-2ff0-47df-aecf-4144747ce63d.jpg"
     },
     {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg",
+      "PackagePath": "staticwebassets\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e203c052-1afd-48ee-9f77-d27a730bb400.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\e203c052-1afd-48ee-9f77-d27a730bb400.jpg"
+    },
+    {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e23e2f99-4c24-4786-a5ec-b4502107e208.jpeg",
       "PackagePath": "staticwebassets\\images\\Products\\e23e2f99-4c24-4786-a5ec-b4502107e208.jpeg"
     },
@@ -731,6 +739,14 @@
     {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\index.html",
+      "PackagePath": "staticwebassets\\shoppingcart\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\style.css",
+      "PackagePath": "staticwebassets\\shoppingcart\\style.css"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.myshop.Web.props",

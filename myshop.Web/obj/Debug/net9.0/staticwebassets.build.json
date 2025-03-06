@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YqgrMzHsGhgrVB2cDqb4900ebqf0LF1dG/R3qhHBGnQ=",
+  "Hash": "45zCQXGTKylyU4Sk8O2hOykCZaREA1g8Q+qQUrP1ASA=",
   "Source": "myshop.Web",
   "BasePath": "_content/myshop.Web",
   "Mode": "Default",
@@ -4574,6 +4574,27 @@
       "OriginalItemSpec": "C:\\Users\\hossa\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\sj3dstxtdo-ux9dym8rks.gz",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "shoppingcart/style#[.{fingerprint=ux9dym8rks}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1q8x9s5spu",
+      "Integrity": "l2yMVlQ1px6K7v16jjWjNNKrlpB71wqfyO6YxPToA+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\style.css"
+    },
+    {
       "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\slei0vsdl6-kbynt5jhd9.gz",
       "SourceId": "myshop.Web",
       "SourceType": "Discovered",
@@ -4824,6 +4845,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hossa\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\uir6typtg2-ijky5sym60.gz",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "shoppingcart/index#[.{fingerprint=ijky5sym60}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sbm6zzd3wq",
+      "Integrity": "iLWgvKN+01xG11dAlE5AEW9WaNzYTQFhPz+b8OufItc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\index.html"
     },
     {
       "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\ulr20otawo-6m5ktcz08b.gz",
@@ -6210,6 +6252,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Products\\7b9948b6-2ff0-47df-aecf-4144747ce63d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "images/Products/cb48eaa4-4cef-4307-b299-82db2a67b2ea#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ur5phtc4vr",
+      "Integrity": "hhH9XUTLU7/8ejFwfXEaQ2x0XesJEdzuQuO/LtI43P0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e203c052-1afd-48ee-9f77-d27a730bb400.jpg",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "images/Products/e203c052-1afd-48ee-9f77-d27a730bb400#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "527760z36g",
+      "Integrity": "fdVOvnjUW3lwLJM0oWqhWeMZkbNp/VGba12nVuYaL/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\e203c052-1afd-48ee-9f77-d27a730bb400.jpg"
     },
     {
       "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e23e2f99-4c24-4786-a5ec-b4502107e208.jpeg",
@@ -9297,6 +9381,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\index.html",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "shoppingcart/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ijky5sym60",
+      "Integrity": "flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\shoppingcart\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\style.css",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "shoppingcart/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ux9dym8rks",
+      "Integrity": "btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\shoppingcart\\style.css"
     }
   ],
   "Endpoints": [
@@ -27890,6 +28016,170 @@
         {
           "Name": "Last-Modified",
           "Value": "Sat, 15 Feb 2025 17:02:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fdVOvnjUW3lwLJM0oWqhWeMZkbNp/VGba12nVuYaL/0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhH9XUTLU7/8ejFwfXEaQ2x0XesJEdzuQuO/LtI43P0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 14:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhH9XUTLU7/8ejFwfXEaQ2x0XesJEdzuQuO/LtI43P0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/cb48eaa4-4cef-4307-b299-82db2a67b2ea.ur5phtc4vr.jpeg",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhH9XUTLU7/8ejFwfXEaQ2x0XesJEdzuQuO/LtI43P0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 14:29:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ur5phtc4vr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhH9XUTLU7/8ejFwfXEaQ2x0XesJEdzuQuO/LtI43P0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/e203c052-1afd-48ee-9f77-d27a730bb400.527760z36g.jpg",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e203c052-1afd-48ee-9f77-d27a730bb400.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVOvnjUW3lwLJM0oWqhWeMZkbNp/VGba12nVuYaL/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 14:28:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "527760z36g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/e203c052-1afd-48ee-9f77-d27a730bb400.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fdVOvnjUW3lwLJM0oWqhWeMZkbNp/VGba12nVuYaL/0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/e203c052-1afd-48ee-9f77-d27a730bb400.jpg",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e203c052-1afd-48ee-9f77-d27a730bb400.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVOvnjUW3lwLJM0oWqhWeMZkbNp/VGba12nVuYaL/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 14:28:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53185,7 +53475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53238,7 +53528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53275,7 +53565,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53322,7 +53612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53383,7 +53673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53428,7 +53718,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53483,7 +53773,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53544,7 +53834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53589,7 +53879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53644,7 +53934,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53697,7 +53987,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53734,7 +54024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 13:11:08 GMT"
+          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -63975,6 +64265,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-sxYWnY/WFhZKdb8sUsK9TmNMJGWznaKQ8JVPDT79XJg="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.html",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\uir6typtg2-ijky5sym60.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001020408163"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "979"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLWgvKN+01xG11dAlE5AEW9WaNzYTQFhPz+b8OufItc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.html",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.html.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\uir6typtg2-ijky5sym60.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLWgvKN+01xG11dAlE5AEW9WaNzYTQFhPz+b8OufItc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iLWgvKN+01xG11dAlE5AEW9WaNzYTQFhPz+b8OufItc="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.ijky5sym60.html",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\uir6typtg2-ijky5sym60.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001020408163"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "979"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLWgvKN+01xG11dAlE5AEW9WaNzYTQFhPz+b8OufItc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijky5sym60"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.ijky5sym60.html",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijky5sym60"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-flEi+l5LWmV/im8XfeGdZpQl92kAbukg2vgB1CIkL2Y="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/index.ijky5sym60.html.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\uir6typtg2-ijky5sym60.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLWgvKN+01xG11dAlE5AEW9WaNzYTQFhPz+b8OufItc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijky5sym60"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iLWgvKN+01xG11dAlE5AEW9WaNzYTQFhPz+b8OufItc="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\sj3dstxtdo-ux9dym8rks.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001494768311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2yMVlQ1px6K7v16jjWjNNKrlpB71wqfyO6YxPToA+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.css.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\sj3dstxtdo-ux9dym8rks.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2yMVlQ1px6K7v16jjWjNNKrlpB71wqfyO6YxPToA+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l2yMVlQ1px6K7v16jjWjNNKrlpB71wqfyO6YxPToA+U="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.ux9dym8rks.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\sj3dstxtdo-ux9dym8rks.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001494768311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2yMVlQ1px6K7v16jjWjNNKrlpB71wqfyO6YxPToA+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ux9dym8rks"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.ux9dym8rks.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\shoppingcart\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ux9dym8rks"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-btK3rh2bjDzm7FzxvT1b3dO5CXp6ktG3GdBds5If3AM="
+        }
+      ]
+    },
+    {
+      "Route": "shoppingcart/style.ux9dym8rks.css.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\sj3dstxtdo-ux9dym8rks.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l2yMVlQ1px6K7v16jjWjNNKrlpB71wqfyO6YxPToA+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 00:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ux9dym8rks"
+        },
+        {
+          "Name": "label",
+          "Value": "shoppingcart/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l2yMVlQ1px6K7v16jjWjNNKrlpB71wqfyO6YxPToA+U="
         }
       ]
     }

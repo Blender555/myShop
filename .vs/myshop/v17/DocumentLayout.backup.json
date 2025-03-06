@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.entities\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.entities\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C508553-33B0-4F72-841D-459ABA3D48E9}|Utilities\\Utilities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C508553-33B0-4F72-841D-459ABA3D48E9}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.dataaccess\\implementation\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.dataaccess\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.entities\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.dataaccess\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE4B8E3-0AC1-4497-9F37-6F5E63868603}|myshop.DataAccess\\myshop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C508553-33B0-4F72-841D-459ABA3D48E9}|Utilities\\Utilities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\utilities\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DAA85A1-15BF-410D-B4F0-D8DC19D1C934}|myshop.Web\\myshop.Web.csproj|solutionrelative:myshop.web\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|c:\\users\\hossa\\onedrive\\desktop\\myshop\\myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119E9DCB-3D75-42BB-BC16-18E1D6FBC9B5}|myshop.Entities\\myshop.Entities.csproj|solutionrelative:myshop.entities\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +110,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAcwHYAAAARAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Utilities",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\Utilities\\Utilities.csproj",
+              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\Utilities\\Utilities.csproj",
+              "RelativeToolTip": "Utilities\\Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T01:21:10.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "myshop.Entities\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T15:29:17.89Z",
+              "WhenOpened": "2025-03-06T00:18:13.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T22:35:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:34:43.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Repositories\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:21:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wC0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:01:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "myshop.Entities\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:58:13.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:56:57.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Customer.cshtml",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Views\\Shared\\_Customer.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Views\\Shared\\_Customer.cshtml",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Views\\Shared\\_Customer.cshtml",
+              "RelativeToolTip": "myshop.Web\\Views\\Shared\\_Customer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T22:36:06.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:28:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T15:19:53.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:37:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:48:38.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Program.cs",
+              "RelativeToolTip": "myshop.Web\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:42:31.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "myshop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T15:03:23.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:58:45.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "myshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:42:44.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -75,25 +343,11 @@
               "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T15:29:14.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T15:29:14.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Program.cs",
-              "RelativeDocumentMoniker": "myshop.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Program.cs",
-              "RelativeToolTip": "myshop.Web\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:42:31.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\Utilities\\SD.cs",
               "RelativeDocumentMoniker": "Utilities\\SD.cs",
@@ -101,12 +355,11 @@
               "RelativeToolTip": "Utilities\\SD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:07:07.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T15:07:07.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -114,12 +367,11 @@
               "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAAAJMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T14:59:25.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T14:59:25.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -127,12 +379,11 @@
               "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T14:59:21.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T14:59:21.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Admin\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Views\\Users\\Index.cshtml",
@@ -140,25 +391,36 @@
               "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Views\\Users\\Index.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T15:53:51.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T15:53:51.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "myshop.Entities\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "myshop.Entities\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T15:48:38.164Z",
+              "WhenOpened": "2025-03-04T15:47:49.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "myshop.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwHYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:29:17.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "myshop.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -166,21 +428,7 @@
               "RelativeToolTip": "myshop.Web\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T15:55:49.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "myshop.Entities\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Entities\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "myshop.Entities\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T15:47:49.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T15:55:49.218Z"
             }
           ]
         }

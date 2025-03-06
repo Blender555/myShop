@@ -800,3 +800,5 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\runtimes\win-
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\Utilities.dll
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\Utilities.pdb
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\uir6typtg2-ijky5sym60.gz
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\sj3dstxtdo-ux9dym8rks.gz

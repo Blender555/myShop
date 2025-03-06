@@ -106,6 +106,7 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\plugins\bootstrap\js\b
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\shoppingcart\style.css
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\plugins\fontawesome-free\css\v4-shims.css
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\js\.eslintrc.json
@@ -113,6 +114,7 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\css\alt\adminlte.compo
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\customer\js\scripts.js
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\shoppingcart\index.html
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\js\pages\dashboard.js
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\plugins\bootstrap\js\bootstrap.min.js.map
@@ -164,6 +166,8 @@ wwwroot\customer\js\scripts.js
 wwwroot\favicon.ico
 wwwroot\images\Products\5b4ecf00-8f3c-4559-af49-1709ba938fb3.jpg
 wwwroot\images\Products\7b9948b6-2ff0-47df-aecf-4144747ce63d.jpg
+wwwroot\images\Products\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg
+wwwroot\images\Products\e203c052-1afd-48ee-9f77-d27a730bb400.jpg
 wwwroot\images\Products\e23e2f99-4c24-4786-a5ec-b4502107e208.jpeg
 wwwroot\images\Products\e3c934af-ca53-4b25-81dc-ac787ffb5706.jpg
 wwwroot\images\Products\f960869b-dff7-499b-b015-1eab948c2e2d.jpg
@@ -311,3 +315,5 @@ wwwroot\plugins\jquery\jquery.min.map
 wwwroot\plugins\jquery\jquery.slim.js
 wwwroot\plugins\jquery\jquery.slim.min.js
 wwwroot\plugins\jquery\jquery.slim.min.map
+wwwroot\shoppingcart\index.html
+wwwroot\shoppingcart\style.css
