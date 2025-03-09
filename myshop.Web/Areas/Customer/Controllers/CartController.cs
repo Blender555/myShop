@@ -65,7 +65,7 @@ namespace myshop.Web.Areas.Customer.Controllers
 
             foreach (var item in ShoppingCartVM.CartsList)
             {
-                ShoppingCartVM.TotalCarts += (item.Count * item.Product.Price);
+                ShoppingCartVM.OrderHeader.TotalPrice += (item.Count * item.Product.Price);
             }
 
             return View(ShoppingCartVM);
@@ -90,7 +90,7 @@ namespace myshop.Web.Areas.Customer.Controllers
 
             foreach (var item in shoppingCartVM.CartsList)
             {
-                shoppingCartVM.TotalCarts += (item.Count * item.Product.Price);
+                shoppingCartVM.OrderHeader.TotalPrice += (item.Count * item.Product.Price);
             }
 
             _unitOfWork.OrderHeader.Add(shoppingCartVM.OrderHeader);
@@ -145,7 +145,6 @@ namespace myshop.Web.Areas.Customer.Controllers
             _unitOfWork.Complete();
 
             Response.Headers.Add("Location", session.Url);
-
             return new StatusCodeResult(303);
         }
 
@@ -153,12 +152,12 @@ namespace myshop.Web.Areas.Customer.Controllers
         {
             OrderHeader orderHeader = _unitOfWork.OrderHeader.GetFirstOrDefault(x => x.Id == id);
             var service = new SessionService();
-            Session session = service.Get(orderHeader.SessionId);
+            Session session = service.Get(orderHeader.SessionId); 
 
             if (session.PaymentStatus.ToLower() == "paid") 
             {
                 _unitOfWork.OrderHeader.UpdateOrderStatus(id, SD.Approve, SD.Approve);
-                orderHeader.PaymentIntendId = session.Id;
+                orderHeader.PaymentIntendId = session.PaymentIntentId;
                 _unitOfWork.Complete();
             }
             List<ShoppingCart> shoppingCarts = _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == orderHeader.ApplicationUserId).ToList();

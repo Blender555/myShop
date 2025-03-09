@@ -59,6 +59,7 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\css\alt\adminlte.core.
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\css\alt\adminlte.light.css
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\plugins\bootstrap\js\bootstrap.bundle.min.js
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\js\order.js
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\plugins\fontawesome-free\webfonts\fa-brands-400.svg
@@ -212,6 +213,7 @@ wwwroot\js\adminlte.js.map
 wwwroot\js\adminlte.min.js
 wwwroot\js\adminlte.min.js.map
 wwwroot\js\demo.js
+wwwroot\js\order.js
 wwwroot\js\pages\dashboard.js
 wwwroot\js\pages\dashboard2.js
 wwwroot\js\pages\dashboard3.js

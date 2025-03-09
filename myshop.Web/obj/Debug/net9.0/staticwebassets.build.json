@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hnpDoxDRSDNVYGI0OozGkuarRY+P5LRno6kOFAw8TDw=",
+  "Hash": "kZO2hwNgzBQw4E03OVlVlPvGMlXeaXrm1ygGFQf6dyU=",
   "Source": "myshop.Web",
   "BasePath": "_content/myshop.Web",
   "Mode": "Default",
@@ -3039,6 +3039,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\fq2e39zajz-4eo8offbhg.gz",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "js/order#[.{fingerprint=4eo8offbhg}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\js\\order.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dcurkax2on",
+      "Integrity": "o6Ev1E5PxzbMOaqVB9vMV9GQuNIrW7m3//9vvuzfC4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\fsors8fohq-1piudyfv7h.gz",
@@ -7218,6 +7239,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\demo.js"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\js\\order.js",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "js/order#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4eo8offbhg",
+      "Integrity": "hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\js\\pages\\dashboard.js",
@@ -33274,6 +33316,304 @@
       ]
     },
     {
+      "Route": "js/order.4eo8offbhg.js",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\fq2e39zajz-4eo8offbhg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001494768311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6Ev1E5PxzbMOaqVB9vMV9GQuNIrW7m3//9vvuzfC4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 18:49:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4eo8offbhg"
+        },
+        {
+          "Name": "label",
+          "Value": "js/order.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc="
+        }
+      ]
+    },
+    {
+      "Route": "js/order.4eo8offbhg.js",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\js\\order.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 18:49:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4eo8offbhg"
+        },
+        {
+          "Name": "label",
+          "Value": "js/order.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc="
+        }
+      ]
+    },
+    {
+      "Route": "js/order.4eo8offbhg.js.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\fq2e39zajz-4eo8offbhg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6Ev1E5PxzbMOaqVB9vMV9GQuNIrW7m3//9vvuzfC4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 18:49:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4eo8offbhg"
+        },
+        {
+          "Name": "label",
+          "Value": "js/order.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6Ev1E5PxzbMOaqVB9vMV9GQuNIrW7m3//9vvuzfC4g="
+        }
+      ]
+    },
+    {
+      "Route": "js/order.js",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\fq2e39zajz-4eo8offbhg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001494768311"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6Ev1E5PxzbMOaqVB9vMV9GQuNIrW7m3//9vvuzfC4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 18:49:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc="
+        }
+      ]
+    },
+    {
+      "Route": "js/order.js",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\js\\order.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 18:49:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hG7TSMOBNinQ93T9PN0ue+XaVZH6uOVSE1lo44Hj8Tc="
+        }
+      ]
+    },
+    {
+      "Route": "js/order.js.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\fq2e39zajz-4eo8offbhg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6Ev1E5PxzbMOaqVB9vMV9GQuNIrW7m3//9vvuzfC4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 18:49:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6Ev1E5PxzbMOaqVB9vMV9GQuNIrW7m3//9vvuzfC4g="
+        }
+      ]
+    },
+    {
       "Route": "js/pages/dashboard.6m5ktcz08b.js",
       "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\ulr20otawo-6m5ktcz08b.gz",
       "Selectors": [
@@ -53815,7 +54155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53868,7 +54208,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53905,7 +54245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -53952,7 +54292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54013,7 +54353,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54058,7 +54398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54113,7 +54453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54174,7 +54514,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54219,7 +54559,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54274,7 +54614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54327,7 +54667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -54364,7 +54704,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 01:50:16 GMT"
+          "Value": "Sun, 09 Mar 2025 22:26:38 GMT"
         },
         {
           "Name": "Cache-Control",
