@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "45zCQXGTKylyU4Sk8O2hOykCZaREA1g8Q+qQUrP1ASA=",
+  "Hash": "hnpDoxDRSDNVYGI0OozGkuarRY+P5LRno6kOFAw8TDw=",
   "Source": "myshop.Web",
   "BasePath": "_content/myshop.Web",
   "Mode": "Default",
@@ -3587,6 +3587,27 @@
       "OriginalItemSpec": "C:\\Users\\hossa\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.2\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\iooy7ze52x-ef9indsk5l.gz",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "css/summary#[.{fingerprint=ef9indsk5l}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\css\\summary.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5kziyiqxsa",
+      "Integrity": "hU4meXKTvY1hF+rJXH1h2UEJQGBXjDplDYRYDpToHro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\css\\summary.css"
+    },
+    {
       "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -6126,6 +6147,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\css\\summary.css",
+      "SourceId": "myshop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\",
+      "BasePath": "_content/myshop.Web",
+      "RelativePath": "css/summary#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ef9indsk5l",
+      "Integrity": "xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\summary.css"
     },
     {
       "Identity": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\customer\\assets\\favicon.ico",
@@ -18102,6 +18144,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8="
+        }
+      ]
+    },
+    {
+      "Route": "css/summary.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\iooy7ze52x-ef9indsk5l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000778816199"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1283"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU4meXKTvY1hF+rJXH1h2UEJQGBXjDplDYRYDpToHro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Nov 2023 06:11:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA="
+        }
+      ]
+    },
+    {
+      "Route": "css/summary.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\css\\summary.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Nov 2023 06:11:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA="
+        }
+      ]
+    },
+    {
+      "Route": "css/summary.css.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\iooy7ze52x-ef9indsk5l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU4meXKTvY1hF+rJXH1h2UEJQGBXjDplDYRYDpToHro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Nov 2023 06:11:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hU4meXKTvY1hF+rJXH1h2UEJQGBXjDplDYRYDpToHro="
+        }
+      ]
+    },
+    {
+      "Route": "css/summary.ef9indsk5l.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\iooy7ze52x-ef9indsk5l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000778816199"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1283"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU4meXKTvY1hF+rJXH1h2UEJQGBXjDplDYRYDpToHro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Nov 2023 06:11:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ef9indsk5l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/summary.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA="
+        }
+      ]
+    },
+    {
+      "Route": "css/summary.ef9indsk5l.css",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\css\\summary.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Nov 2023 06:11:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ef9indsk5l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/summary.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnR/STJ7Xb6gTCqZdE0diNX7ZBaNrKSjTda1wuo6KsA="
+        }
+      ]
+    },
+    {
+      "Route": "css/summary.ef9indsk5l.css.gz",
+      "AssetFile": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\obj\\Debug\\net9.0\\compressed\\iooy7ze52x-ef9indsk5l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hU4meXKTvY1hF+rJXH1h2UEJQGBXjDplDYRYDpToHro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Nov 2023 06:11:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ef9indsk5l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/summary.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hU4meXKTvY1hF+rJXH1h2UEJQGBXjDplDYRYDpToHro="
         }
       ]
     },

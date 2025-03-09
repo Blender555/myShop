@@ -121,6 +121,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\css\\summary.css",
+      "PackagePath": "staticwebassets\\css\\summary.css"
+    },
+    {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\customer\\assets\\favicon.ico",
       "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
     },

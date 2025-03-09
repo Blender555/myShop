@@ -81,6 +81,7 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\css\alt\adminlte.light
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\js\adminlte.js.map
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\plugins\fontawesome-free\webfonts\fa-solid-900.svg
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\css\alt\adminlte.components.css.map
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\css\summary.css
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\css\alt\adminlte.core.css
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\wwwroot\plugins\fontawesome-free\css\all.css
@@ -160,6 +161,7 @@ wwwroot\css\alt\adminlte.plugins.css.map
 wwwroot\css\alt\adminlte.plugins.min.css
 wwwroot\css\alt\adminlte.plugins.min.css.map
 wwwroot\css\site.css
+wwwroot\css\summary.css
 wwwroot\customer\assets\favicon.ico
 wwwroot\customer\css\styles.css
 wwwroot\customer\js\scripts.js

@@ -802,3 +802,5 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\Utilities.dll
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\Utilities.pdb
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\uir6typtg2-ijky5sym60.gz
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\sj3dstxtdo-ux9dym8rks.gz
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\Stripe.net.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\iooy7ze52x-ef9indsk5l.gz
