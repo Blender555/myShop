@@ -665,7 +665,6 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\cg
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\ulr20otawo-6m5ktcz08b.gz
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\hopvpkxbbh-jcitzkfdw9.gz
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\dgxw30fqnm-iwyywynqhh.gz
-C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\cdj3ug6cjc-bescv265qb.gz
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\gk2v7pcrtk-6b9nfc4n3r.gz
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\f9wbw9eh5w-nakmwdwsxp.gz
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\5535mfnfyi-st1cbwfwo5.gz
@@ -805,3 +804,6 @@ C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\sj
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\Stripe.net.dll
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\iooy7ze52x-ef9indsk5l.gz
 C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\fq2e39zajz-4eo8offbhg.gz
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\hossa\OneDrive\Desktop\myShop\myshop.Web\obj\Debug\net9.0\compressed\cdj3ug6cjc-bescv265qb.gz

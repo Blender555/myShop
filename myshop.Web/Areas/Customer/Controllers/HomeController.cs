@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using myshop.Entities.Models;
 using myshop.Entities.Repositories;
 using System.Security.Claims;
+using Utilities;
+using X.PagedList.Extensions;
 
 namespace myshop.Web.Areas.Customer.Controllers
 {
@@ -16,9 +18,12 @@ namespace myshop.Web.Areas.Customer.Controllers
             _unitOfWork = unitOfWork;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int? page)
         {
-            var products = _unitOfWork.Product.GetAll();
+            var PageNumber = page ?? 1;
+            int PageSize = 8;
+
+            var products = _unitOfWork.Product.GetAll().ToPagedList(PageNumber, PageSize);
             return View(products);
         }
 
@@ -51,18 +56,25 @@ namespace myshop.Web.Areas.Customer.Controllers
             shoppingCart.ApplicationUserId = claim.Value;
 
             ShoppingCart CartObj = _unitOfWork.ShoppingCart.GetFirstOrDefault(
-                    u => u.ApplicationUserId == claim.Value && u.ProductId == shoppingCart.ProductId
-                );
+                 u => u.ApplicationUserId == claim.Value && u.ProductId == shoppingCart.ProductId
+            );
 
             if (CartObj == null) 
             {
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
+                _unitOfWork.Complete();
+                HttpContext.Session.SetInt32(SD.SessionKey,
+                    _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == claim.Value).Count()
+                );
+
             }
+                
             else
             {
                 _unitOfWork.ShoppingCart.IncreaseCount(CartObj, shoppingCart.Count);
+                _unitOfWork.Complete();
+
             }
-            _unitOfWork.Complete();
 
             return RedirectToAction("Index");
         }

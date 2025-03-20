@@ -167,12 +167,21 @@ wwwroot\customer\assets\favicon.ico
 wwwroot\customer\css\styles.css
 wwwroot\customer\js\scripts.js
 wwwroot\favicon.ico
+wwwroot\images\Products\02117b98-aa99-4a8e-90df-26299df835c6.jpg
+wwwroot\images\Products\40e5c527-fde7-40cc-881a-366860f0a083.jpg
+wwwroot\images\Products\47351242-2a72-4b55-bca0-687f207972cc.jpg
+wwwroot\images\Products\4b6cc461-88e1-4631-b308-dc7c7863d9c6.jpg
 wwwroot\images\Products\5b4ecf00-8f3c-4559-af49-1709ba938fb3.jpg
+wwwroot\images\Products\5c5115a6-492e-412d-8bfe-07b7b2fdb05f.jpg
 wwwroot\images\Products\7b9948b6-2ff0-47df-aecf-4144747ce63d.jpg
+wwwroot\images\Products\83e24895-6a17-4172-b618-86f7ca6ffe11.jpg
 wwwroot\images\Products\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg
+wwwroot\images\Products\d584f57e-daf6-4907-93f5-cf850927069a.jpg
 wwwroot\images\Products\e203c052-1afd-48ee-9f77-d27a730bb400.jpg
 wwwroot\images\Products\e23e2f99-4c24-4786-a5ec-b4502107e208.jpeg
 wwwroot\images\Products\e3c934af-ca53-4b25-81dc-ac787ffb5706.jpg
+wwwroot\images\Products\eceb3605-12a7-4138-8726-14106a4c450a.jpg
+wwwroot\images\Products\f8660bb4-471f-4520-8945-58735aec4d58.jpeg
 wwwroot\images\Products\f960869b-dff7-499b-b015-1eab948c2e2d.jpg
 wwwroot\img\AdminLTELogo.png
 wwwroot\img\avatar.png
@@ -182,6 +191,7 @@ wwwroot\img\avatar4.png
 wwwroot\img\avatar5.png
 wwwroot\img\boxed-bg.jpg
 wwwroot\img\boxed-bg.png
+wwwroot\img\confirm.jpg
 wwwroot\img\credit\american-express.png
 wwwroot\img\credit\cirrus.png
 wwwroot\img\credit\mastercard.png
@@ -190,6 +200,7 @@ wwwroot\img\credit\paypal2.png
 wwwroot\img\credit\visa.png
 wwwroot\img\default-150x150.png
 wwwroot\img\icons.png
+wwwroot\img\login@4x.png
 wwwroot\img\photo1.png
 wwwroot\img\photo2.png
 wwwroot\img\photo3.jpg

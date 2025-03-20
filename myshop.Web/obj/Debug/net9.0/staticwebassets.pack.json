@@ -141,16 +141,44 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\02117b98-aa99-4a8e-90df-26299df835c6.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\02117b98-aa99-4a8e-90df-26299df835c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\40e5c527-fde7-40cc-881a-366860f0a083.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\40e5c527-fde7-40cc-881a-366860f0a083.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\47351242-2a72-4b55-bca0-687f207972cc.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\47351242-2a72-4b55-bca0-687f207972cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\4b6cc461-88e1-4631-b308-dc7c7863d9c6.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\4b6cc461-88e1-4631-b308-dc7c7863d9c6.jpg"
+    },
+    {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\5b4ecf00-8f3c-4559-af49-1709ba938fb3.jpg",
       "PackagePath": "staticwebassets\\images\\Products\\5b4ecf00-8f3c-4559-af49-1709ba938fb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\5c5115a6-492e-412d-8bfe-07b7b2fdb05f.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\5c5115a6-492e-412d-8bfe-07b7b2fdb05f.jpg"
     },
     {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\7b9948b6-2ff0-47df-aecf-4144747ce63d.jpg",
       "PackagePath": "staticwebassets\\images\\Products\\7b9948b6-2ff0-47df-aecf-4144747ce63d.jpg"
     },
     {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\83e24895-6a17-4172-b618-86f7ca6ffe11.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\83e24895-6a17-4172-b618-86f7ca6ffe11.jpg"
+    },
+    {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg",
       "PackagePath": "staticwebassets\\images\\Products\\cb48eaa4-4cef-4307-b299-82db2a67b2ea.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\d584f57e-daf6-4907-93f5-cf850927069a.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\d584f57e-daf6-4907-93f5-cf850927069a.jpg"
     },
     {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e203c052-1afd-48ee-9f77-d27a730bb400.jpg",
@@ -163,6 +191,14 @@
     {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\e3c934af-ca53-4b25-81dc-ac787ffb5706.jpg",
       "PackagePath": "staticwebassets\\images\\Products\\e3c934af-ca53-4b25-81dc-ac787ffb5706.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\eceb3605-12a7-4138-8726-14106a4c450a.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\eceb3605-12a7-4138-8726-14106a4c450a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\f8660bb4-471f-4520-8945-58735aec4d58.jpeg",
+      "PackagePath": "staticwebassets\\images\\Products\\f8660bb4-471f-4520-8945-58735aec4d58.jpeg"
     },
     {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\images\\Products\\f960869b-dff7-499b-b015-1eab948c2e2d.jpg",
@@ -201,6 +237,10 @@
       "PackagePath": "staticwebassets\\img\\boxed-bg.png"
     },
     {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\img\\confirm.jpg",
+      "PackagePath": "staticwebassets\\img\\confirm.jpg"
+    },
+    {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\img\\credit\\american-express.png",
       "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
     },
@@ -231,6 +271,10 @@
     {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\img\\icons.png",
       "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\img\\login@4x.png",
+      "PackagePath": "staticwebassets\\img\\login@4x.png"
     },
     {
       "Id": "C:\\Users\\hossa\\OneDrive\\Desktop\\myShop\\myshop.Web\\wwwroot\\img\\photo1.png",

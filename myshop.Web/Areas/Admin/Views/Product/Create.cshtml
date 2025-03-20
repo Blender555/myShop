@@ -5,44 +5,53 @@
     ViewBag.CardTitle = "Create Product";
     Layout = "~/Views/Shared/_Dashboard.cshtml";
 }
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label asp-for="Product.Name" class="control-label"></label>
+                <input asp-for="Product.Name" class="form-control" />
+                <span asp-validation-for="Product.Name" class="text-danger"></span>
+            </div>
 
-<form asp-action="Create" method="post" enctype="multipart/form-data">
-    <div class="mb-3">
-        <label asp-for="Product.Name" class="control-label"></label>
-        <input asp-for="Product.Name" class="form-control" />
-        <span asp-validation-for="Product.Name" class="text-danger"></span>
-    </div>
+            <div class="mb-3">
+                <label asp-for="Product.Description" class="control-label"></label>
+                <input id="mytextarea" asp-for="Product.Description" class="form-control" />
+                <span asp-validation-for="Product.Description" class="text-danger"></span>
+            </div>
 
-    <div class="mb-3">
-        <label asp-for="Product.Description" class="control-label"></label>
-        <input asp-for="Product.Description" class="form-control" />
-        <span asp-validation-for="Product.Description" class="text-danger"></span>
-
-    </div>
-
-    <div class="mb-3">
-        <label asp-for="Product.Price" class="control-label"></label>
-        <input asp-for="Product.Price" class="form-control" />
-        <span asp-validation-for="Product.Price" class="text-danger"></span>
-    </div>
+            <div class="mb-3">
+                <label asp-for="Product.Price" class="control-label"></label>
+                <input asp-for="Product.Price" class="form-control" />
+                <span asp-validation-for="Product.Price" class="text-danger"></span>
+            </div>
      
-    <div class="mb-3">
-        <label asp-for="Product.Img" class="control-label"></label>
-        <input type="file" name="file" id="imgfile" class="form-control" />
-    </div>
+            <div class="mb-3">
+                <label asp-for="Product.Img" class="control-label"></label>
+                <input type="file" name="file" id="imgfile" class="form-control" onchange="fillimg(event);"/>
+            </div>
 
-    <div class="mb-3">
-        <label asp-for="Product.CategoryId" class="control-label"></label>
-        <select asp-for="Product.CategoryId" class="form-control" asp-items="Model.CategoryList">
-            <option disabled selected>-- Select Category --</option>
-        </select>
-        <span asp-validation-for="Product.Price" class="text-danger"></span>
-    </div>
+            <div class="mb-3">
+                <label asp-for="Product.CategoryId" class="control-label"></label>
+                <select asp-for="Product.CategoryId" class="form-control" asp-items="Model.CategoryList">
+                    <option disabled selected>-- Select Category --</option>
+                </select>
+                <span asp-validation-for="Product.Price" class="text-danger"></span>
+            </div>
 
-    <div class="mb-3">
-        <button type="submit" class="btn btn-primary">Create</button>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Create</button>
+            </div>
+        </form>
     </div>
-</form>
+    <div class="col-md-4">
+        <div class="container">
+            <img id="ImagePreview" src="~/@Model.Product.Img" width="300" height="300" />
+        </div>
+    </div>
+</div>
+
+
 
 <div>
     <a asp-action="Index">Back to list</a>
@@ -50,4 +59,15 @@
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
+    <script>
+        var fillimg = function (event) {
+            var img = document.getElementById('ImagePreview');
+            img.src = URL.createObjectURL(event.target.files[0]);
+        }
+    </script>
+    <script>
+        tinymce.init({
+          selector: '#mytextarea'
+        });
+    </script>
 }

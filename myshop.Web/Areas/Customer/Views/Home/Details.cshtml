@@ -11,11 +11,10 @@
                 <div class="small mb-1">@Model.Product.Category.Name</div>
                 <h1 class="display-5 fw-bolder">Shop item template</h1>
                 <div class="fs-5 mb-5">
-                    <span class="text-decoration-line-through">$45.00</span>
                     <span>@Model.Product.Price</span>
                 </div>
-                <p class="lead">@Model.Product.Description</p>
-                <div class="d-flex">
+                    <p class="lead">@Html.Raw(Model.Product.Description)</p>
+                    <div class="d-flex">
                     <input class="form-control text-center me-3" id="inputQuantity" asp-for="Count" style="max-width: 3rem">
                     <button class="btn btn-outline-dark flex-shrink-0" type="submit">
                         <i class="bi-cart-fill me-1"></i>

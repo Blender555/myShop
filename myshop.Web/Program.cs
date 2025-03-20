@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using Utilities;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Stripe;
+using myshop.Entities.Models;
 
 namespace myshop.Entities
 {
@@ -23,15 +24,20 @@ namespace myshop.Entities
                 ));
             builder.Services.Configure<StripeData>(builder.Configuration.GetSection("stripe"));
 
-            builder.Services.AddIdentity<IdentityUser, IdentityRole>(
-                options => options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromHours(4))
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(
+                 options => options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromHours(4))
+                .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders()
-                .AddDefaultUI()
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddDefaultUI();
+
 
             builder.Services.AddSingleton<IEmailSender, EmailSender>();
 
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+            builder.Services.AddDistributedMemoryCache();
+
+            builder.Services.AddSession();
 
             var app = builder.Build();
 
@@ -50,16 +56,29 @@ namespace myshop.Entities
 
             StripeConfiguration.ApiKey = builder.Configuration.GetSection("stripe:Secretkey").Get<string>();
 
+            app.UseAuthentication();
+
             app.UseAuthorization();
+
+            app.UseSession();
+
             app.MapRazorPages();
 
             app.MapControllerRoute(
-                name: "areas",
-                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+                name: "default",
+                pattern: "{area=Admin}/{controller=Home}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                name: "Customer",
+                pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
+
+            //app.MapControllerRoute(
+            //    name: "areas",
+            //    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+
+            //app.MapControllerRoute(
+            //    name: "default",
+            //    pattern: "{controller=Home}/{action=Index}/{id?}");
 
             //app.MapControllerRoute(
             //    name: "default",

@@ -178,12 +178,11 @@ namespace myshop.Web.Areas.Customer.Controllers
         {
             var cart = _unitOfWork.ShoppingCart.GetFirstOrDefault(u => u.Id == cartid);
 
-            if(cart.Count == 1)
+            if(cart.Count <= 1)
             {
                 _unitOfWork.ShoppingCart.Remove(cart);
-                _unitOfWork.Complete();
-                return RedirectToAction("Index", "Home");
-
+                var count = _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == cart.ApplicationUserId).Count() - 1;
+                HttpContext.Session.SetInt32(SD.SessionKey, count);
             }
             else
             {
@@ -201,6 +200,8 @@ namespace myshop.Web.Areas.Customer.Controllers
                 _unitOfWork.ShoppingCart.Remove(cart);
                 _unitOfWork.Complete();
             }
+            var count = _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == cart.ApplicationUserId).Count();
+            HttpContext.Session.SetInt32(SD.SessionKey, count);
             return RedirectToAction("Index");
         }
     }

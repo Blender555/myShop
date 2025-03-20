@@ -9,17 +9,18 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using myshop.Entities.Models;
 
 namespace myshop.Web.Areas.Identity.Pages.Account.Manage
 {
     public class IndexModel : PageModel
     {
-        private readonly UserManager<IdentityUser> _userManager;
-        private readonly SignInManager<IdentityUser> _signInManager;
+        private readonly UserManager<ApplicationUser> _userManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
 
         public IndexModel(
-            UserManager<IdentityUser> userManager,
-            SignInManager<IdentityUser> signInManager)
+            UserManager<ApplicationUser> userManager,
+            SignInManager<ApplicationUser> signInManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -58,9 +59,14 @@ namespace myshop.Web.Areas.Identity.Pages.Account.Manage
             [Phone]
             [Display(Name = "Phone number")]
             public string PhoneNumber { get; set; }
+
+            public string Name { get; set; }
+
+            public string Address { get; set; }
+            public string City { get; set; }
         }
 
-        private async Task LoadAsync(IdentityUser user)
+        private async Task LoadAsync(ApplicationUser user)
         {
             var userName = await _userManager.GetUserNameAsync(user);
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
@@ -69,7 +75,10 @@ namespace myshop.Web.Areas.Identity.Pages.Account.Manage
 
             Input = new InputModel
             {
-                PhoneNumber = phoneNumber
+                PhoneNumber = phoneNumber,
+                Address = user.Address,
+                Name = user.Name,
+                City = user.City
             };
         }
 
@@ -100,6 +109,43 @@ namespace myshop.Web.Areas.Identity.Pages.Account.Manage
             }
 
             var phoneNumber = await _userManager.GetPhoneNumberAsync(user);
+            var name = user.Name;
+            var address = user.Address;
+            var city = user.City;   
+
+            if (Input.Name != name)
+            {
+                user.Name = Input.Name;
+                var setNameResult = await _userManager.UpdateAsync(user);
+                if (!setNameResult.Succeeded)
+                {
+                    StatusMessage = "Unexpected error when trying to set name.";
+                    return RedirectToPage();
+                }
+            }
+
+            if (Input.Address != address)
+            {
+                user.Address = Input.Address;
+                var setAddressResult = await _userManager.UpdateAsync(user);
+                if (!setAddressResult.Succeeded)
+                {
+                    StatusMessage = "Unexpected error when trying to set address.";
+                    return RedirectToPage();
+                }
+            }
+
+            if (Input.City != city)
+            {
+                user.City = Input.City;
+                var setAddressResult = await _userManager.UpdateAsync(user);
+                if (!setAddressResult.Succeeded)
+                {
+                    StatusMessage = "Unexpected error when trying to set city.";
+                    return RedirectToPage();
+                }
+            }
+
             if (Input.PhoneNumber != phoneNumber)
             {
                 var setPhoneResult = await _userManager.SetPhoneNumberAsync(user, Input.PhoneNumber);
